@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  
 <br/><br/><br/>
  
-![samdoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gjtpals&show_icons=true&theme=radical)
+![samdoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gjtpals&show_icons=true&theme=radical) 
  
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
 </div>

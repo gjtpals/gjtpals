@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat&logo=Notepad++&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
  
-<br/> 
+<br/><br/><br/>
  
 ![samdoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gjtpals&show_icons=true&theme=radical)
  
